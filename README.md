@@ -1,1 +1,1 @@
-# DeepFake-Image-Classification-using-CNN
+# SkripsiCode
